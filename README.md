@@ -1,4 +1,10 @@
-A to-do app created by <a href="http://superoo7.com">superoo7</a>
-This app is just for superoo7's portfolio.
+#To do web app
 
-Heroku web app: 
+- build with ruby on rails
+- using scaffolding
+- basic css
+- basic user UI and UX
+
+A to-do app created by [superoo7](http://superoo7.com)
+
+Heroku web app: [website](http://to-do-superoo7.herokuapp.com)
